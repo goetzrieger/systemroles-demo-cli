@@ -1,0 +1,7 @@
+timesync_ntp_servers:
+  - hostname: prod-ntp1.example.com
+    iburst: yes
+  - hostname: prod-ntp2.example.com
+    iburst: yes
+  - hostname: prod-ntp3.example.com
+    iburst: yes
