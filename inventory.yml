@@ -2,9 +2,8 @@ all:
   children:
     prod:
       hosts:
-        rhel9-server1:
-        rhel8-server1:
+        node1.example.com:
+        node2.example.com:
     dev:
       hosts:
-        rhel9-server2:
-        rhel8-server2:
+        node3.example.com:
