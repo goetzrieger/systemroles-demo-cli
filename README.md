@@ -1,4 +1,4 @@
-# systemroles-demo-cli
+# Simple RHEL system-roles demo 
 
 Change hostnames and `ansible_user` in `inventory.yml`.
 
