@@ -7,3 +7,5 @@ all:
     dev:
       hosts:
         node3.example.com:
+    vars:
+      ansible_user: ec2-user
